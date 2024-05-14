@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HumanPlayer
+comment0.text=\r\n\ A\ human\ Tic-tac-toe\ player\ that\ reads\ moves\ from\ the\ keyboard.\r\n\r\n\ @author\ Chaz\ Harrison\ \ \ \ \r\n\ @version\ 10/30/21\r\n
+comment1.params=game\ symbol
+comment1.target=HumanPlayer(Game,\ char)
+comment2.params=
+comment2.target=Move\ pickMove()
+comment2.text=\r\n\ Asks\ the\ user\ to\ pick\ a\ move.\ Moves\ are\ entered\ from\ the\ keyboard\ and\ are\ specified\ \r\n\ by\ two\ characters\ rchar\ and\ cchar\ (rc)\ where\ rchar\ is\ a\ letter\ representing\ the\ row\ \r\n\ and\ cchar\ is\ a\ digit\ representing\ the\ column.\ For\ instance\ a1\ means\ the\ 1st\ column\ \r\n\ of\ the\ first\ row\ and\ c2\ means\ the\ 2nd\ column\ of\ the\ 3rd\ row.\ \r\n\ If\ the\ user\ enters\ a\ position\ that\ is\ outside\ the\ bound\ of\ the\ game\ board\ or\ a\ position\r\n\ that\ is\ already\ occupied,\ an\ appropriate\ error\ message\ is\ shown\ and\ \r\n\ the\ user\ is\ asked\ for\ another\ position.\ If\ the\ user\ writes\ 'exit'\ (regardless\ of\ case),\r\n\ the\ method\ returns\ null.\r\n\ The\ player\ then\ has\ the\ option\ to\ either\ start\ a\ new\ game\ or\ quit\ the\ session.\r\n
+numComments=3

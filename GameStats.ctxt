@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameStats
+comment0.text=\r\n\ Stores\ and\ updates\ the\ stats\ of\ the\ game\r\n\r\n\ @author\ Chaz\ Harrison\r\n\ @version\ 10/30/21\r\n
+comment1.params=
+comment1.target=GameStats()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameStats.\r\n\r\n
+comment2.params=
+comment2.target=void\ recordWin()
+comment2.text=\r\n\ Increments\ the\ number\ of\ human\ wins.\r\n\r\n
+comment3.params=
+comment3.target=void\ recordTie()
+comment3.text=\r\n\ Increments\ the\ number\ of\ ties.\r\n\r\n
+comment4.params=
+comment4.target=void\ recordLoss()
+comment4.text=\r\n\ Increments\ the\ number\ of\ CPU\ wins/human\ losses.\r\n\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ a\ textual\ representation\ of\ the\ statistics\ contained\ in\ this\ object.\r\n\r\n
+numComments=6

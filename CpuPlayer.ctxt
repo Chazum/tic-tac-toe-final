@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CpuPlayer
+comment0.text=\r\n\ A\ computer-controlled\ Tic-tac-toe\ player\ that\ implements\ a\ random\ playing\ strategy.\r\n\r\n\ @author\ Chaz\ Harrison\r\n\ @version\ 10/30/21\r\n
+comment1.params=game\ symbol
+comment1.target=CpuPlayer(Game,\ char)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CpuPlayer\r\n
+comment2.params=
+comment2.target=Move\ pickMove()
+comment2.text=\r\n\ Picks\ a\ move\ uniformly\ at\ random.\ \r\n\ It\ does\ this\ by\ generating\ random\ moves\ within\ the\ game\ board\ boundaries\ \r\n\ until\ it\ finds\ an\ unnocupied\ position.\ Assumes\ the\ game\ isn't\ over\ yet,\ \r\n\ otherwise\ it'd\ go\ into\ an\ infinite\ loop.\r\n
+numComments=3

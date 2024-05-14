@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=APlayer
+comment0.text=\r\n\ Abstract\ class\ APlayer\ -\ \r\n\ An\ abstract\ class\ representing\ a\ generic\ Tic-tac-toe\ game\ player.\r\n\r\n\r\n\ @author\ Chaz\ Harrison\r\n\ @version\ 10/30/21\r\n
+comment1.params=
+comment1.target=APlayer()
+comment1.text=\r\n\ Empty\ constructor\ for\ objects\ of\ class\ APlayer.\r\n
+comment2.params=game\ symbol
+comment2.target=APlayer(Game,\ char)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ APlayer.\r\n
+numComments=3
